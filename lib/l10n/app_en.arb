@@ -1,0 +1,245 @@
+{
+    "language" : "English",
+    "@language": {
+        "description": "The current language"
+    },
+
+    "offers" : "Offers",
+    "@offers": {
+        "description": "The current offers"
+    },
+
+    "aboutus" : "About us",
+    "@aboutus": {
+        "description": "About us"
+    },
+    "ourServices" : "Our Services",
+    "@ourServices": {
+        "description": "Our Services"
+    },
+    "ourServicesCapital" : "OUR SERVICES",
+    "@ourServicesCapital": {
+        "description": "OUR SERVICES"
+    },
+    "casesGallery" : "Cases Gallery",
+    "@casesGallery": {
+        "description": "Cases Gallery"
+    },
+    "contactUs" : "Contact Us",
+    "@contactUs": {
+        "description": "Contact Us"
+    },
+    "bookAnAppointment" : "BOOK AN APPOINTMENT",
+    "@bookAnAppointment": {
+        "description": "BOOK AN APPOINTMENT"
+    },
+    "aboutTheCenter" : "ABOUT THE CENTER",
+    "@aboutTheCenter": {
+        "description": "ABOUT THE CENTER"
+    },
+    "briefing" : "Aesthetic Medicine Consultation Center is a center specialized in plastic reconstructive surgery, cosmetic injectables, laser and facial treatments and dentistry in all its cosmetic and restorative treatments. It was established in 2000 and has been providing its services since then.",
+    "@briefing": {
+        "description": "Aesthetic Medicine Consultation Center is a center specialized in plastic reconstructive surgery, cosmetic injectables, laser and facial treatments and dentistry in all its cosmetic and restorative treatments. It was established in 2000 and has been providing its services since then."
+    },
+    "plasticSurgeryDepartment" : "Plastic Surgery Department",
+    "@plasticSurgeryDepartment": {
+        "description": "Plastic Surgery Department"
+    },
+    "supervisedBy" : "Supervised by:",
+    "@supervisedBy": {
+        "description": "Supervised by:"
+    },
+    "drSalahEddinMismar" : "Dr. Salah Eddin Mismar",
+    "@drSalahEddinMismar": {
+        "description": "Dr. Salah Eddin Mismar"
+    },
+    "consultant" : "Consultant plastic and reconstructive surgeon",
+    "@consultant": {
+        "description": "Consultant plastic and reconstructive surgeon"
+    },
+    "servicesAvailable" : "Servives Available:",
+    "@servicesAvailable": {
+        "description": "Services Available"
+    },
+    "cosmetic" : "Cosmetic facial injectables (botox, dermal fillers, PRP injections, mesotherapy, rejuvenation injections, profhilo and others)",
+    "@cosmetic": {
+        "description": "Cosmetic facial injectables (botox, dermal fillers, PRP injections, mesotherapy, rejuvenation injections, profhilo and others)"
+    },
+    "doubleChin" : "Double chin liposuction ",
+    "@doubleChin": {
+        "description": "Double chin liposuction "
+    },
+    "fatTransfer" : "fat transfer",
+    "@fatTransfer": {
+        "description": "fat transfer"
+    },
+    "threadLift" : "Thread Lift",
+    "@threadLift": {
+        "description": "Thread Lift"
+    },
+    "minorPlasticSurgeries" : "Minor plastic surgeries (mole removal, acne scar removal, lipoma removal and other minor surgeries done with local anesthesia)",
+    "@minorPlasticSurgeries": {
+        "description": "Minor plastic surgeries (mole removal, acne scar removal, lipoma removal and other minor surgeries done with local anesthesia)"
+    },
+    "dentistryDepartment" : "Dentistry Department",
+    "@dentistryDepartment": {
+        "description": "Dentistry Department"
+    },
+    "drQaisMismar" : "Dr. Qais Mismar",
+    "@drQaisMismar": {
+        "description": "Dr. Qais Mismar"
+    },
+    "doctorOfDentalSurgery" : "Doctor of Dental Surgery",
+    "@doctorOfDentalSurgery": {
+        "description": "Doctor of Dental Surgery"
+    },
+    "drAmerMismar" : "Dr. Amer Mismar",
+    "@drAmerMismar": {
+        "description": "Dr. Amer Mismar"
+    },
+    "inCooperationWith" : "In cooperation with:",
+    "@inCooperationWith": {
+        "description": "In cooperation with:"
+    },
+    "oralMaxilloFacial" : "An oral and maxillofacial specialist",
+    "@oralMaxilloFacial": {
+        "description": "An oral and maxillofacial specialist"
+    },
+    "prosthodontics" : "Prosthodontics specialist ",
+    "@prosthodontics": {
+        "description": "Prosthodontics specialist "
+    },
+    "endodontics" : "Endodontics specialist ",
+    "@endodontics": {
+        "description": "Endodontics specialist "
+    },
+    "orthodontist" : "Orthodontist ",
+    "@orthodontist": {
+        "description": "Orthodontist "
+    },
+    "cosmeticDental" : "Cosmetic dental procedures (veneers, composite facing, teeth whitening and others) ",
+    "@cosmeticDental": {
+        "description": "Cosmetic dental procedures (veneers, composite facing, teeth whitening and others) "
+    },
+    "restorative" : "Restorative dental procedures (root canal treatments, composite fillings, crowns and bridges and every other restorative procedure) ",
+    "@restorative": {
+        "description": "Restorative dental procedures (root canal treatments, composite fillings, crowns and bridges and every other restorative procedure) "
+    },
+    "dentalImplants" : "Dental implants ",
+    "@dentalImplants": {
+        "description": "Dental implants "
+    },
+    "orthodonticTreatments" : "Orthodontic treatments ",
+    "@orthodonticTreatments": {
+        "description": "Orthodontic treatments "
+    },
+    "periodonticTreatments" : "Periodontic treatments ",
+    "@periodonticTreatments": {
+        "description": "Periodontic treatments "
+    },
+    "oralMaxillofacialSurgeries" : "Oral and maxillofacial surgeries ",
+    "@oralMaxillofacialSurgeries": {
+        "description": "Oral and maxillofacial surgeries "
+    },
+    "pediatric" : "Pediatric and special needs dental care under local and general anesthesia ",
+    "@pediatric": {
+        "description": "Pediatric and special needs dental care under local and general anesthesia "
+    },
+    "laserDepartment" : "Laser and facial care department ",
+    "@laserDepartment": {
+        "description": "Laser and facial care department "
+    },
+    "trained" : "Services available by trained cosmetics experts:",
+    "@trained": {
+        "description": "Services available by trained cosmetics experts:"
+    },
+    "hairRemoval" : "Laser for hair removal",
+    "@hairRemoval": {
+        "description": "Laser for hair removal"
+    },
+    "faceRejuvenation" : "Laser for face rejuvenation",
+    "@faceRejuvenation": {
+        "description": "Laser for face rejuvenation "
+    },
+    "hydrafacial" : "Hydrafacial treatments",
+    "@hydrafacial": {
+        "description": "Hydrafacial treatments "
+    },
+    "diamondPeel" : "Diamond peel",
+    "@diamondPeel": {
+        "description": "Diamond peel"
+    },
+    "dermapen" : "Dermapen",
+    "@dermapen": {
+        "description": "Dermapen"
+    },
+    "hifu" : "Hifu skin tightening",
+    "@hifu": {
+        "description": "Hifu skin tightening "
+    },
+    "salahWithNumber" : "Dr. Salah Eddin Mismar 0795520080",
+    "@salahWithNumber": {
+        "description": "Dr. Salah Eddin Mismar 0795520080"
+    },
+    "qaisWithNumber" : "Dr. Qais Mismar 0799512013",
+    "@qaisWithNumber": {
+        "description": "Dr. Qais Mismar 0799512013"
+    },
+    "amerWithNumber" : "Dr. Amer Mismar 0796792903",
+    "@amerWithNumber": {
+        "description": "Dr. Amer Mismar 0796792903"
+    },
+    "followUsOnInstagram" : "Follow us on Instagram",
+    "@followUsOnInstagram": {
+        "description": "Follow us on Instagram"
+    },
+    "address2" : "Ibn Khaldoun St. 19",
+    "@address2": {
+        "description": "Ibn Khaldoun St. 19"
+    },
+    "address1" : "Jabal Amman",
+    "@address1": {
+        "description": "Jabal Amman"
+    },
+    "address3" : "Maggi Medical Center",
+    "@address3": {
+        "description": "Maggi Medical Center"
+    },
+    "selectDate" : "Select Date",
+    "@selectDate": {
+        "description": "Select Date"
+    },
+    "selectTimeSlot" : "Select time slot",
+    "@selectTimeSlot": {
+        "description": "Select time slot"
+    },
+    "name" : "Name",
+    "@name": {
+        "description": "Name"
+    },
+    "phoneNumber" : "Phone number",
+    "@phoneNumber": {
+        "description": "Phone number"
+    },
+    "procedure" : "Procedure you would like to do",
+    "@procedure": {
+        "description": "Procedure you would like to do"
+    },
+    "bookAppointment" : "Book Appointment",
+    "@bookAnAppointment": {
+        "description": "Book Appointment"
+    },
+    "makeSure" : "Please make sure you filled the required information correctly",
+    "@makeSure": {
+        "description": "Please make sure you filled the required information correctly"
+    },
+    "thankYou" : "Thank you for booking your appointment with us, we will contact you shortly for confirmation. Have a nice day!",
+    "@thankYou": {
+        "description": "Thank you for booking your appointment with us, we will contact you shortly for confirmation. Have a nice day!"
+    }
+    
+    
+
+
+    
+}

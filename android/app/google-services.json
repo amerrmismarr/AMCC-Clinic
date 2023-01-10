@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "794081454948",
+    "project_id": "amcc-46fc7",
+    "storage_bucket": "amcc-46fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794081454948:android:75c6b8b8a4fff32697e871",
+        "android_client_info": {
+          "package_name": "com.aesthetic.amcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794081454948-t7fcaebo089gmducg2s2i75oqceoj88k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyPZctuWbwf3DuYPrbOn2BXesVMFOGvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794081454948-t7fcaebo089gmducg2s2i75oqceoj88k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794081454948-0obcfh3m648b0tva00ihnnf0tvl17q1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aesthetic.amcc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
